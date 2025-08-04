@@ -18,7 +18,7 @@
 - **`POST`**: the second most common HTTP request method. Signifies that the
   client is attempting to submit a form to create a new resource.
 - **`PATCH`**: an HTTP request method that signifies that the client is
-  attempting to update a resource with new information.
+  attempting to update a resource with new minformation.
 - **`DELETE`**: an HTTP request method that signifies that the client is
   attempting to delete a resource.
 
